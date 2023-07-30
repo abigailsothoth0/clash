@@ -608,6 +608,10 @@ DOMAIN,www.googleadservices.com
 DOMAIN,www.googletagmanager.com
 DOMAIN,www.google-analytics.com
 
+#海信电视
+DOMAIN-SUFFIX,hismarttv.com
+DOMAIN-SUFFIX,wasu.tv
+
 # 运营商广告****************
 DOMAIN-SUFFIX,114so.cn
 DOMAIN-SUFFIX,go.10086.cn
