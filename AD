@@ -597,20 +597,7 @@ DOMAIN-SUFFIX,zantainet.com
 DOMAIN-SUFFIX,dh54wf.xyz
 DOMAIN-SUFFIX,g2q3e.cn
 
-# raildrive
-DOMAIN,adservice.google.com
-DOMAIN,googleads.g.doubleclick.net
-DOMAIN,securepubads.g.doubleclick.net
-DOMAIN,pagead1.googlesyndication.com
-DOMAIN,pagead2.googlesyndication.com
-DOMAIN,tpc.googlesyndication.com
-DOMAIN,www.googleadservices.com
-DOMAIN,www.googletagmanager.com
-DOMAIN,www.google-analytics.com
 
-#海信电视
-DOMAIN-SUFFIX,hismarttv.com
-DOMAIN-SUFFIX,wasu.tv
 
 # 运营商广告****************
 DOMAIN-SUFFIX,114so.cn
