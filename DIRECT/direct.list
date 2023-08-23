@@ -1,1 +1,28 @@
-DOMAIN-SUFFIX,cmdw.top
+payload
+ - DOMAIN-SUFFIX,cmdw.top
+#起点
+ - DOMAIN,magev6.if.qidian.com
+ - DOMAIN,monitor.if.qidian.com
+ - DOMAIN,druiv6.if.qidian.com
+ - DOMAIN,v.gdt.qq.com
+ - DOMAIN,sdk.e.qq.com
+ - DOMAIN,pingtas.qq.com
+ - DOMAIN,pub.idqqimg.com
+ - DOMAIN,qzs.gdtimg.com
+ - DOMAIN,if.qidan.com
+ - DOMAIN,unitelogreport.reader.qq.com
+ - DOMAIN,reader.qq.com
+ - DOMAIN,rdt.tfogc.com
+ - DOMAIN,otheve.beacon.qq.com
+ - DOMAIN,adsmind.gdtimg.com
+ - DOMAIN,gdtimg.com
+ - DOMAIN,gdt.qq.com
+ - DOMAIN,ii.gdt.qq.com
+ - DOMAIN,path.book.qq.com
+ - DOMAIN,path.qidian.com
+ - DOMAIN,monitor.if.qidian.com
+ - DOMAIN,facepic.qidian.com
+ - DOMAIN,qidian.qpic.cn
+ - DOMAIN,bookcover.yuewen.com
+ - DOMAIN,druid.if.qidian.com
+ - DOMAIN,oth.eve.mdt.qq.com
