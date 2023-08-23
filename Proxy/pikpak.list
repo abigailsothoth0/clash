@@ -1,3 +1,4 @@
-DOMAIN-KEYWORD,pikpak
-DOMAIN-KEYWORD,sslyyds
-DOMAIN-KEYWORD,alist
+payload:
+ - DOMAIN-KEYWORD,pikpak
+ - DOMAIN-KEYWORD,sslyyds
+ - DOMAIN-KEYWORD,alist
